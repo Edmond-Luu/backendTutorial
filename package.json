@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Test Name",
 	"description": "Backend Tutorial",
-  "keywords": ["freecodecamp"],
+  "keywords": ["freecodecamp", "backend"],
+  "license": "freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
